@@ -1,0 +1,13 @@
+<DOCTYPE html>
+<html>
+  <head>
+   <title>Florida Fishing</title>
+   <link
+     href="/style.css"
+     type="text/css"
+     rel="stylesheet">
+  </head>
+  <body>
+    <h1>Florida Fishing</h1>
+  </body>  
+</html>    
