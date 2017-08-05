@@ -2,12 +2,29 @@
 <html>
   <head>
    <title>Florida Fishing</title>
+   
+   <!--Reference For future stylesheet
    <link
      href="/style.css"
      type="text/css"
-     rel="stylesheet">
+     rel="stylesheet">-->
+     
+    <!--stylesheet-->
+    <style>
+      <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+      h1, h2 {
+      font-family="Lobster","Raleway", sans-serif;
+      color: #64A0FF;
+      text-align:center;
+      
   </head>
+  
   <body>
     <h1>Florida Fishing</h1>
+    
+      
+      
+      
   </body>  
 </html>    
