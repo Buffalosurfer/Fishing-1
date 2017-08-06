@@ -31,7 +31,7 @@
     </style>
     <!-- This will be my background image -->
    <img
-        src="https://goo.gl/photos/D3ZqsKxXNHEd9Y8g7">
+        src="https://goo.gl/photos/D3ZqsKxXNHEd9Y8g7"/>
   </head>
   <body> 
     <h1>Florida Fishing</h1>
