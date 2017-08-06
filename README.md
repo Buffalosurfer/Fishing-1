@@ -7,7 +7,7 @@
    <link
      href="/style.css"
      type="text/css"
-     rel="stylesheet">-->
+     rel="stylesheet"> -->
      
     <!--stylesheet-->
     <style>
@@ -15,9 +15,10 @@
       <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
       h1, h2 {
       font-family="Lobster","Raleway", sans-serif;
-      color: MidnightBlue
-      background-color: rgba(100, 160, 255, 0.60)
+      color: MidnightBlue;
+      background-color: rgba(100, 160, 255, 0.60);
       text-align:center;
+      </style>
       
   </head>
   
