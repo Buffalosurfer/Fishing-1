@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-   <title>Florida Fishing</title>
+    <title>Florida Fishing</title>
    
    <!--Reference For future stylesheet
    <link
@@ -10,23 +10,34 @@
      rel="stylesheet"> -->
      
     <!--stylesheet-->
-    <style>
-      <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
-      <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-      h1, h2 {
-      font-family="Lobster","Raleway", sans-serif;
-      color: MidnightBlue;
-      background-color: rgba(100, 160, 255, 0.60);
-      text-align:center;
-      </style>
-      
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+    
+    <style>  
+      h1, h2, h3 {
+        font-family: "lobster", "raleway", sans-serif;
+        border:3px groove rgba(100,160,255,0.60);
+        background-color: rgba(100,160,255,0.60);
+        color:blue;
+        text-align:center;
+        position:top;       
+      }
+      h1 {
+        font-size:3em;
+        width:400px;
+        margin:auto; 
+      }
+      h2, h3 {
+        max-width:200;
+    </style>
+    <!-- This will be my background image -->
+   <img
+        src="http://i1067.photobucket.com/albums/u433/surfingsrq/11.20.12%201594_zpsvh69ktrp.jpg"/>
   </head>
-  
-  <body>
+  <body> 
     <h1>Florida Fishing</h1>
-      <h2>Weather<h2>
+      <h2>Weather</h2>
       <h2>Tides</h2>
       <h2>Solunar</h2>
       <h2>Reports</h2>      
-  </body>  
-</html>    
+  </body>
+        </html>  
