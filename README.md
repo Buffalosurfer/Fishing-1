@@ -31,7 +31,7 @@
     </style>
     <!-- This will be my background image -->
    <img
-        src="Fishing-1/11.20.12 1594.jpg">
+        src="https://github.com/Buffalosurfer/Fishing-1/blob/master/11.20.12%201594.jpg?raw=true">
   </head>
   <body> 
     <h1>Florida Fishing</h1>
