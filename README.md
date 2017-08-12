@@ -28,6 +28,7 @@
       }
       h2, h3 {
         max-width:200;
+      }
     </style>
     <!-- This will be my background image -->
    <img
