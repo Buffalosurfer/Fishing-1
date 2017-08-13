@@ -9,9 +9,24 @@
          
   <body> 
     <h1>Florida Fishing</h1>
-      <h2>Weather</h2>
-      <h2>Tides</h2>
-      <h2>Solunar</h2>
-      <h2>Reports</h2>      
+      <h2><a
+            href="https://www.wunderground.com/weather-radar/united-states/fl/tampa/tbw/?region=pie&MR=1"
+            target="_blank">
+            Weather</h2>
+      <h2><a 
+            href="http://www.saltwatertides.com/dynamic.dir/floridagulfsites.html"
+            target="_blank">
+            Tides
+            </a></h2>
+      <h2><a
+            href="http://www.solunarforecast.com/solunarcalendar.aspx"
+            target="_blank">
+            Solunar
+            </a></h2>
+      <h2><a
+            href="http://www.floridakayak.com/fishing-tackle/fishing-reports/"
+            target="_blank">
+            Reports
+            </a></h2>
   </body>
         </html>  
