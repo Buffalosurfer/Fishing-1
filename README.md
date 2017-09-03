@@ -2,43 +2,32 @@
 <html>
   <head>
     <title>Florida Fishing</title>
-   
-   <!--Reference For future stylesheet
-   <link
-     href="/style.css"
-     type="text/css"
-     rel="stylesheet"> -->
-     
-    <!--stylesheet-->
     <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
-    
-    <style>  
-      h1, h2, h3 {
-        font-family: "lobster", "raleway", sans-serif;
-        border:3px groove rgba(100,160,255,0.60);
-        background-color: rgba(100,160,255,0.60);
-        color:blue;
-        text-align:center;
-        position:top;       
-      }
-      h1 {
-        font-size:3em;
-        width:400px;
-        margin:auto; 
-      }
-      h2, h3 {
-        max-width:200;
-      }
-    </style>
-    <!-- This will be my background image -->
-   <img
-        src="https://github.com/Buffalosurfer/Fishing-1/blob/master/11.20.12%201594.jpg?raw=true">
+    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
+    <div class="header"/>
+         
   <body> 
     <h1>Florida Fishing</h1>
-      <h2>Weather</h2>
-      <h2>Tides</h2>
-      <h2>Solunar</h2>
-      <h2>Reports</h2>      
+      <h2><a
+            href="https://www.wunderground.com/weather-radar/united-states/fl/tampa/tbw/?region=pie&MR=1"
+            target="_blank">
+            Weather
+        </a></h2>
+      <h2><a 
+            href="http://www.saltwatertides.com/dynamic.dir/floridagulfsites.html"
+            target="_blank">
+            Tides
+            </a></h2>
+      <h2><a
+            href="http://www.solunarforecast.com/solunarcalendar.aspx"
+            target="_blank">
+            Solunar
+            </a></h2>
+      <h2><a
+            href="http://www.floridakayak.com/fishing-tackle/fishing-reports/"
+            target="_blank">
+            Reports
+            </a></h2>
   </body>
         </html>  
